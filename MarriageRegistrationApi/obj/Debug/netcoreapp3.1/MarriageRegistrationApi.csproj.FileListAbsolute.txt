@@ -1,0 +1,62 @@
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\aws-lambda-tools-defaults.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.exe
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.deps.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.runtimeconfig.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.runtimeconfig.dev.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.pdb
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.APIGatewayEvents.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.AspNetCoreServer.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.Logging.AspNetCore.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.csprojAssemblyReference.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.AssemblyInfoInputs.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.AssemblyInfo.cs
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.csproj.CoreCompileInputs.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\staticwebassets\MarriageRegistrationApi.StaticWebAssets.Manifest.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\staticwebassets\MarriageRegistrationApi.StaticWebAssets.xml
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\MarriageRegistrationApi.styles.css
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.RazorTargetAssemblyInfo.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.csproj.CopyComplete
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.pdb
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.genruntimeconfig.cache
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.csprojAssemblyReference.cache
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.AssemblyInfoInputs.cache
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.AssemblyInfo.cs
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.csproj.CoreCompileInputs.cache
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.pdb
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\aws-lambda-tools-defaults.json
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.exe
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.deps.json
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.runtimeconfig.json
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.runtimeconfig.dev.json
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\MarriageRegistrationApi.pdb
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.APIGatewayEvents.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.AspNetCoreServer.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.Logging.AspNetCore.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\staticwebassets\MarriageRegistrationApi.StaticWebAssets.Manifest.cache
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\staticwebassets\MarriageRegistrationApi.StaticWebAssets.xml
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\MarriageRegistrationApi.styles.css
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.RazorTargetAssemblyInfo.cache
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.csproj.CopyComplete
+D:\Dotnet\Marriage Registration Application\MarriageRegistrationApi\src\MarriageRegistrationApi\obj\Debug\netcoreapp3.1\MarriageRegistrationApi.genruntimeconfig.cache

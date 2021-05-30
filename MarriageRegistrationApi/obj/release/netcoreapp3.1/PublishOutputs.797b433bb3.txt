@@ -1,0 +1,17 @@
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\MarriageRegistrationApi.exe
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\appsettings.Development.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\appsettings.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\aws-lambda-tools-defaults.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\MarriageRegistrationApi.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\MarriageRegistrationApi.deps.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\MarriageRegistrationApi.runtimeconfig.json
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\MarriageRegistrationApi.pdb
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.AspNetCoreServer.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.Logging.AspNetCore.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+D:\Dotnet\Project\MarriageRegistrationApi\src\MarriageRegistrationApi\bin\release\netcoreapp3.1\publish\AWSSDK.Extensions.NETCore.Setup.dll
